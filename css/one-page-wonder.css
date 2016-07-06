@@ -9,8 +9,8 @@ body {
 }
 
 .header-image {
-    height: 595px;;
-    width: 842px;
+    height: auto;
+    width: auto;
     
     object-fit: contain;
     text-align: center;
@@ -19,7 +19,6 @@ body {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    background-color: gold;
 }
 .ycon {
     background: url(../images/whiteloom2.jpeg) no-repeat;
@@ -130,7 +129,6 @@ footer {
 @media(max-width:768px) {
     .container {
         margin: 0 15px;
-        background-color: gold;
     }
 
     .featurette-divider {
