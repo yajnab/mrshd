@@ -23,6 +23,16 @@ body {
     -o-background-size: cover;
     background-color: gold;
 }
+.ycon {
+    background: url(../images/backg.JPG) center;
+}
+
+.map{
+    
+}
+.contact {
+    
+}
 
 .headline {
     padding: 120px 0;
@@ -44,6 +54,8 @@ body {
 
 .featurette {
     overflow: hidden;
+    background: #fff;
+    background: rgba(255,255,255,0.6);
 }
 
 .featurette-image.pull-left {
@@ -121,6 +133,7 @@ footer {
 @media(max-width:768px) {
     .container {
         margin: 0 15px;
+        background-color: gold;
     }
 
     .featurette-divider {
