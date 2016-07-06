@@ -9,14 +9,12 @@ body {
 }
 
 .header-image {
-    display: block;
-    max-height: 100%;
-    max-width: 100%;
-    height: 100%;
-    width: auto;
+    height: 595px;;
+    width: 842px;
+    
     object-fit: contain;
     text-align: center;
-    background: url(../images/bg.jpeg) no-repeat center center scroll;
+    background: url(../images/top1.jpeg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -24,8 +22,9 @@ body {
     background-color: gold;
 }
 .ycon {
-    background: url(../images/golden_set.jpeg) no-repeat;
+    background: url(../images/whiteloom2.jpeg) no-repeat;
     background-size: cover;
+    
 }
 
 .contact {
