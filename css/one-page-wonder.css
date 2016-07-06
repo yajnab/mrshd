@@ -24,12 +24,10 @@ body {
     background-color: gold;
 }
 .ycon {
-    background: url(../images/backg.JPG) center;
+    background: url(../images/golden_set.jpeg) no-repeat;
+    background-size: cover;
 }
 
-.map{
-    
-}
 .contact {
     
 }
