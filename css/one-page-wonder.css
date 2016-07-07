@@ -16,11 +16,12 @@ body {
     
     object-fit: contain;
     text-align: center;
-    background: url(../logo.png) no-repeat center center;
+    background: url(../images/top1.jpeg) no-repeat center center;
+    min-height: 595px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size: cover;
     -o-background-size: cover;
+    background-size: cover;
     background-color: gold;
 }
 .ycon {
